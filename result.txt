@@ -1,0 +1,991 @@
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-09-26', 'time': '12:18:00', 'utterance': '너'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-09-26', 'time': '12:19:00', 'utterance': '육회먹어?'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-09-26', 'time': '12:19:00', 'utterance': '아니'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-09-26', 'time': '12:19:00', 'utterance': '곱창은?'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-09-26', 'time': '12:19:00', 'utterance': '환장하지'}
+{'utteranceID': 'U6', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-09-26', 'time': '12:19:00', 'utterance': 'ㅁ챠ㅛ구나'}
+{'utteranceID': 'U7', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-09-26', 'time': '12:19:00', 'utterance': '걔는 죽엇고'}
+{'utteranceID': 'U8', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-09-26', 'time': '12:19:00', 'utterance': '야만인'}
+{'utteranceID': 'U9', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-09-26', 'time': '12:19:00', 'utterance': '구웟어'}
+{'utteranceID': 'U10', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-09-26', 'time': '12:19:00', 'utterance': '하지만'}
+{'utteranceID': 'U11', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-09-26', 'time': '12:19:00', 'utterance': '쟤는 살앗고'}
+육회는 살아있어 먹지 않고 곱창은 죽었고 구운 거라 먹는다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-01-28', 'time': '19:06:00', 'utterance': '#@이름#아아'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-01-28', 'time': '19:06:00', 'utterance': '웅웅'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-01-28', 'time': '19:06:00', 'utterance': '#@이모티콘# 조심해서 들어가야해'}
+{'utteranceID': 'U4', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-01-28', 'time': '19:06:00', 'utterance': '알았어~~~'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-01-28', 'time': '19:07:00', 'utterance': '잘 놀다가 !'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-01-28', 'time': '19:07:00', 'utterance': '내일 힘들면 무리해서'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-01-28', 'time': '19:07:00', 'utterance': '웅 ㅎㅎ 나두 오늘 일찍 갈거에욤'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-01-28', 'time': '19:07:00', 'utterance': '안와두 돼!!!'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-01-28', 'time': '19:07:00', 'utterance': '보고싶을거같아 !!!!'}
+{'utteranceID': 'U10', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-01-28', 'time': '19:07:00', 'utterance': '사진 보내줄게'}
+{'utteranceID': 'U11', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-01-28', 'time': '19:07:00', 'utterance': '너무 보고싶으면 올게 헤헤 ,,'}
+내일 힘들면 무리해서 오지 말라고 하자 너무 보고 싶으면 보러 가겠다고 말한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-06-29', 'time': '15:27:00', 'utterance': '#@시스템#사진#'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-06-29', 'time': '15:27:00', 'utterance': '이거 머같아?'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-06-29', 'time': '15:35:00', 'utterance': 'ㅇㅁㅇ몰랑'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-06-29', 'time': '15:36:00', 'utterance': 'ㅇㄴㅇ'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-06-29', 'time': '15:36:00', 'utterance': '어디 뭐 닿거나 한적있엉?'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-06-29', 'time': '15:36:00', 'utterance': '#@이모티콘#'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-06-29', 'time': '15:52:00', 'utterance': '아니....에어컨 안틀고 이불 덮고 잔게.다야'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-06-29', 'time': '16:15:00', 'utterance': '뭐징...'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-06-29', 'time': '16:15:00', 'utterance': '간지러워?'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-06-29', 'time': '16:17:00', 'utterance': '우웅....'}
+{'utteranceID': 'U11', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-06-29', 'time': '16:17:00', 'utterance': '뭐지...'}
+{'utteranceID': 'U12', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-06-29', 'time': '16:17:00', 'utterance': '흐음...'}
+{'utteranceID': 'U13', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-06-29', 'time': '16:17:00', 'utterance': '일단 뭔가 반응이 일어나서 염증이 난 거 같은데'}
+{'utteranceID': 'U14', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-06-29', 'time': '16:17:00', 'utterance': "'ㅅ`..이게 문제가"}
+{'utteranceID': 'U15', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-06-29', 'time': '16:17:00', 'utterance': '스테로이드를 진균....인거에 발라버림'}
+{'utteranceID': 'U16', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-06-29', 'time': '16:17:00', 'utterance': '...아주 파이어해버리거든'}
+{'utteranceID': 'U17', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-06-29', 'time': '16:17:00', 'utterance': '그래서 내가 선뜻 말 못하는거'}
+{'utteranceID': 'U18', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-06-29', 'time': '16:19:00', 'utterance': '그래서 지금 피부과 왔어 ㅇㅁㅇ'}
+{'utteranceID': 'U19', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-06-29', 'time': '16:19:00', 'utterance': '잘해또!'}
+피부에 염증이 나서 피부과에 방문한 이야기를 하고 있다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-11-01', 'time': '14:36:00', 'utterance': '오 11월 빼빼로 데이 다가오니까'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-11-01', 'time': '14:36:00', 'utterance': '빼뺴로 모양 롤카스테라도 판다'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-11-01', 'time': '14:36:00', 'utterance': '어디서? 빵집에서?'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-11-01', 'time': '14:36:00', 'utterance': '아니 온라인쇼핑하다가 발견'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-11-01', 'time': '14:36:00', 'utterance': '아 귀엽겠네'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-11-01', 'time': '14:36:00', 'utterance': '맛있겠네'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-11-01', 'time': '14:36:00', 'utterance': '사무라미'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-11-01', 'time': '14:37:00', 'utterance': '빼빼로 데이가 다가오고 있는 줄 몰랐다'}
+11월 빼빼로 데이를 기념해 온라인 쇼핑몰에서 빼빼로 모양 롤 카스텔라를 판매한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-02-09', 'time': '13:25:00', 'utterance': '한번가면 두번은 안가게될거야'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-02-09', 'time': '13:25:00', 'utterance': '거기랑 비슷해'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-02-09', 'time': '13:26:00', 'utterance': '#@이름# 일본가면 가는 라멘십'}
+{'utteranceID': 'U4', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-02-09', 'time': '13:26:00', 'utterance': '집'}
+{'utteranceID': 'U5', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-02-09', 'time': '13:26:00', 'utterance': '이름이 기억이'}
+{'utteranceID': 'U6', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-02-09', 'time': '13:26:00', 'utterance': '안나네'}
+{'utteranceID': 'U7', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-02-09', 'time': '13:28:00', 'utterance': '이치란'}
+{'utteranceID': 'U8', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-02-09', 'time': '13:28:00', 'utterance': '근데 이치란보다안짜고 괜찮은데?'}
+{'utteranceID': 'U9', 'turnID': 'T3', 'participantID': 'P03', 'date': '2019-02-09', 'time': '13:36:00', 'utterance': '저흰 괜찮네~햇어여ㅋㅋ'}
+{'utteranceID': 'U10', 'turnID': 'T4', 'participantID': 'P01', 'date': '2019-02-09', 'time': '13:53:00', 'utterance': '옹옹'}
+{'utteranceID': 'U11', 'turnID': 'T4', 'participantID': 'P01', 'date': '2019-02-09', 'time': '13:54:00', 'utterance': '쏘쏘 하군'}
+일본에 있는 라멘집인 이치란과 다른 음식점에 대해 이야기한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-21', 'time': '15:20:00', 'utterance': '월화수였우면'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-21', 'time': '15:20:00', 'utterance': '너 목금 불러찌'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-21', 'time': '15:20:00', 'utterance': '^^'}
+{'utteranceID': 'U4', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-21', 'time': '15:20:00', 'utterance': '놀려구'}
+{'utteranceID': 'U5', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-21', 'time': '15:20:00', 'utterance': '집에는 5일 출장이라 하구'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-21', 'time': '16:06:00', 'utterance': '헤헤'}
+{'utteranceID': 'U7', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-21', 'time': '16:06:00', 'utterance': '그럼 베스툰데'}
+{'utteranceID': 'U8', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-21', 'time': '16:06:00', 'utterance': '아십당..'}
+{'utteranceID': 'U9', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-21', 'time': '16:16:00', 'utterance': '마죠..'}
+{'utteranceID': 'U10', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-21', 'time': '16:16:00', 'utterance': '구롬 주말까지'}
+{'utteranceID': 'U11', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-21', 'time': '16:16:00', 'utterance': '꿀!!!!'}
+{'utteranceID': 'U12', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-21', 'time': '16:48:00', 'utterance': '타이밍이 안맞아따!~'}
+{'utteranceID': 'U13', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-21', 'time': '16:48:00', 'utterance': '흑'}
+{'utteranceID': 'U14', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-21', 'time': '18:27:00', 'utterance': '구롬 토일월화 다볼래'}
+{'utteranceID': 'U15', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-21', 'time': '18:27:00', 'utterance': '헿'}
+{'utteranceID': 'U16', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-21', 'time': '18:27:00', 'utterance': '나 30일 토요일도 친척오빠 결혼식 이쪄서 못봐'}
+출장과 친척 오빠 결혼식 때문에 만날 수가 없다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-09-16', 'time': '02:18:00', 'utterance': '난낼 인나서 삼성역으로 운전면허증'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-09-16', 'time': '02:18:00', 'utterance': '받으러가야해아아아악 분실해서 재발급해가자고'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-09-16', 'time': '02:18:00', 'utterance': '귀차나디진다!!'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-09-16', 'time': '02:19:00', 'utterance': '홀왜케'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-09-16', 'time': '02:19:00', 'utterance': '멀리서 받아???'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-09-16', 'time': '02:19:00', 'utterance': '경찰서는'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-09-16', 'time': '02:19:00', 'utterance': '일주뒤부터'}
+{'utteranceID': 'U8', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-09-16', 'time': '02:19:00', 'utterance': '되나? 그래서'}
+{'utteranceID': 'U9', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-09-16', 'time': '02:19:00', 'utterance': '면허시험장으로 가래ㅠ'}
+{'utteranceID': 'U10', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-09-16', 'time': '02:19:00', 'utterance': '아ㅠㅠㅠㅠ그래서'}
+{'utteranceID': 'U11', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-09-16', 'time': '02:19:00', 'utterance': '빨리 받으려고ㅠ'}
+운전면허증을 빠르게 재발급 받기 위해 삼성역에 있는 면허시험장에 내일 가야 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-06-27', 'time': '22:04:00', 'utterance': '언니 닭갈비 잘받았어여! 낼해먹을게여!'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-06-27', 'time': '22:08:00', 'utterance': '옹옹'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-06-27', 'time': '22:08:00', 'utterance': '맛있을거야 ㅎㅎㅎㅎㅎ'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-06-27', 'time': '22:09:00', 'utterance': '벌써 맛있어보여여ㅋㅋㅋㅋㅋ 사리도잔뜩있구'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P03', 'date': '2019-06-27', 'time': '22:09:00', 'utterance': '사리는마리야~'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P03', 'date': '2019-06-27', 'time': '22:09:00', 'utterance': '닭따로굽고'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P03', 'date': '2019-06-27', 'time': '22:09:00', 'utterance': '사리는 끓는물에 따로익혀서'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-06-27', 'time': '22:10:00', 'utterance': '같이넣지말구?'}
+언니에게 받은 닭갈비는 닭은 따로 굽고 사리는 끓는 물에 따로 익혀서 요리하라고 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-05-19', 'time': '22:09:00', 'utterance': '가고있엉? ㅋㅋㅋ'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-05-19', 'time': '22:10:00', 'utterance': '웅! 집 들어갔오?ㅎㅎ'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-05-19', 'time': '22:11:00', 'utterance': '웅 우유한개 사서 ㅋㅋㅋ'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-05-19', 'time': '22:11:00', 'utterance': '먼길인데 데따줘서 고마웡 ㅠ ㅎㅎ'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-05-19', 'time': '22:11:00', 'utterance': '웅! 우유샀구낭 잘했옹ㅎㅎㅎ'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-05-19', 'time': '22:12:00', 'utterance': '웅ㅎㅎㅎ 우유 저녁에 먹으려구?'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-05-19', 'time': '22:14:00', 'utterance': '응 ㅋㅋㅋ 나 흰우유 먹는거 좋아해서 ㅋㅋㅋㅋ'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-05-19', 'time': '22:14:00', 'utterance': '반만먹고 넣어둬야징'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-05-19', 'time': '22:16:00', 'utterance': '웅웅 흰우유 좋아하구낭!ㅎㅎ'}
+{'utteranceID': 'U10', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-05-19', 'time': '22:16:00', 'utterance': '맞아 흰우유 맛있옹!ㅎㅎㅎ'}
+{'utteranceID': 'U11', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-05-19', 'time': '22:17:00', 'utterance': '웅 넣어뒀다가 내일 또 먹엉ㅎㅎ'}
+{'utteranceID': 'U12', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-05-19', 'time': '22:19:00', 'utterance': '응응 ㅋㅋㅋㅋ'}
+헤어진 후 안부를 주고받으며 좋아하는 우유에 대해 말하고 있다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2016-10-03', 'time': '09:30:00', 'utterance': '나출근해서청소중ㅜㅜ'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2016-10-03', 'time': '09:31:00', 'utterance': '아침부터청소라니ㅠ'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2016-10-03', 'time': '09:37:00', 'utterance': 'ㅠㅠ당떨어져서엄청어지러워...'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2016-10-03', 'time': '09:37:00', 'utterance': '흐엉ㅜㅜ'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2016-10-03', 'time': '09:39:00', 'utterance': 'ㅜㅜ어지러워?'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2016-10-03', 'time': '09:39:00', 'utterance': '약먹어야지ㅠ'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-10-03', 'time': '09:40:00', 'utterance': '머마시면돼ㅋㅋㅋ'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-10-03', 'time': '09:40:00', 'utterance': '당떨어져서이래ㅜㅜ'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2016-10-03', 'time': '10:07:00', 'utterance': '청소할꺼는많아~?'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P01', 'date': '2016-10-03', 'time': '10:07:00', 'utterance': '아니ㅎㅎ청소하구커피사구와쏘♡'}
+출근해서 아침부터 청소하느라 당이 떨어져서 어지럽다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-11-27', 'time': '23:04:00', 'utterance': '11월 30일에 네이버 메인에 내글 올라간다네'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-11-27', 'time': '23:04:00', 'utterance': '아아 30일이야? 내일올라가는줄'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-11-27', 'time': '23:05:00', 'utterance': '날짜를 정해놓고 올리나봐 이게'}
+{'utteranceID': 'U4', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-11-27', 'time': '23:05:00', 'utterance': '헤헤헤헤 대박이다오빠가 자랑좀 해야겠어'}
+{'utteranceID': 'U5', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-11-27', 'time': '23:05:00', 'utterance': 'ㅋㅋㅋ나도 애들한테 엄청 자랑했으'}
+{'utteranceID': 'U6', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-11-27', 'time': '23:05:00', 'utterance': '나 곧 파워블로거 될거같다궁'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-11-27', 'time': '23:05:00', 'utterance': '생일선물을 이렇게 주는건가~~'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-11-27', 'time': '23:05:00', 'utterance': '아아아 대박이넹ㅋㅋ 메인에도 올라가구'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-11-27', 'time': '23:05:00', 'utterance': '두번째인거지 메인에??'}
+네이버 메인에 블로그 글이 올라간다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-10-21', 'time': '10:39:00', 'utterance': '또 많이먹을거같아서'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-10-21', 'time': '10:39:00', 'utterance': '많이 쪘나보다'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-10-21', 'time': '10:39:00', 'utterance': '그니까...'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-10-21', 'time': '10:39:00', 'utterance': '고구마 작아서'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-10-21', 'time': '10:39:00', 'utterance': '맞아 말없이 버린것만봐도'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-10-21', 'time': '10:39:00', 'utterance': '두개쪘다고 ㅜㅜㅜ'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-10-21', 'time': '10:39:00', 'utterance': '삐짐의 영향 있다'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-10-21', 'time': '10:39:00', 'utterance': '그치...'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-10-21', 'time': '10:40:00', 'utterance': '엄마가 보내준'}
+{'utteranceID': 'U10', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-10-21', 'time': '10:40:00', 'utterance': '고구마라고'}
+{'utteranceID': 'U11', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-10-21', 'time': '10:40:00', 'utterance': '또...'}
+{'utteranceID': 'U12', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-10-21', 'time': '10:40:00', 'utterance': '크게...'}
+{'utteranceID': 'U13', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-10-21', 'time': '10:40:00', 'utterance': '아 호박고구마면 그래도 하나는 먹을거같은데'}
+{'utteranceID': 'U14', 'turnID': 'T8', 'participantID': 'P02', 'date': '2019-10-21', 'time': '10:40:00', 'utterance': '의미부여했닿'}
+{'utteranceID': 'U15', 'turnID': 'T9', 'participantID': 'P01', 'date': '2019-10-21', 'time': '10:40:00', 'utterance': '밤은 힘들더라'}
+고구마를 많이 먹을 것 같아서 많이 쪘다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-09-26', 'time': '20:11:00', 'utterance': '내가 가서 처방 더 받아올까??'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-09-26', 'time': '20:11:00', 'utterance': '더되나여?'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-09-26', 'time': '20:11:00', 'utterance': '당근'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-09-26', 'time': '20:11:00', 'utterance': '낼 오전에 안과를 다녀오지'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-09-26', 'time': '20:11:00', 'utterance': '완전좋져! 처방해주시면 입금해드릴게여'}
+{'utteranceID': 'U6', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-09-26', 'time': '20:11:00', 'utterance': '오키'}
+{'utteranceID': 'U7', 'turnID': 'T6', 'participantID': 'P03', 'date': '2019-09-26', 'time': '20:12:00', 'utterance': '오 나안가도되겠네'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P03', 'date': '2019-09-26', 'time': '20:12:00', 'utterance': '나이스~'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P02', 'date': '2019-09-26', 'time': '20:12:00', 'utterance': '모자라면 동참해줘야해'}
+내일 오전에 안과에 가서 처방받아 더 받아다 주면 입금을 해주기로 하고 모자라면 동참해 달라고 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-22', 'time': '00:35:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅁㅊ'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-22', 'time': '00:35:00', 'utterance': '한달만에만나가꼬'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-22', 'time': '00:35:00', 'utterance': '목존내쉬어라 불러재꼇다'}
+{'utteranceID': 'U4', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-22', 'time': '00:36:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋ존잼쓰'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-22', 'time': '00:36:00', 'utterance': 'ㅋㅋㅋㅋ진짜'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-22', 'time': '00:36:00', 'utterance': '오ㅘㄴ전'}
+{'utteranceID': 'U7', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-22', 'time': '00:36:00', 'utterance': '한시간자고'}
+{'utteranceID': 'U8', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-22', 'time': '00:36:00', 'utterance': '디지게'}
+{'utteranceID': 'U9', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-22', 'time': '00:36:00', 'utterance': '커피빨쩐다'}
+{'utteranceID': 'U10', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-03-22', 'time': '00:36:00', 'utterance': '앞머리떡질때가지'}
+{'utteranceID': 'U11', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-03-22', 'time': '00:36:00', 'utterance': '놀앗다고욬ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U12', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-03-22', 'time': '00:36:00', 'utterance': 'ㅋㅋㅋ앞머리 존떡졋다진짜'}
+한 달 만에 만나서 앞머리가 떡이 질 때까지 즐겁게 놀았다는 얘기를 하고 있다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-01-27', 'time': '22:36:00', 'utterance': '남자친구가 말하기를.. 어떻게 해도 볼수 없는거면 상대가 날 보고싶지 않는거래.. 그거 아니제ㅠㅠ'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-01-27', 'time': '22:37:00', 'utterance': '그런건 아니라...내가 자리를 비우기가 어려워서 그럼..'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-01-27', 'time': '22:38:00', 'utterance': '구미 늘 잇는애 결혼한다고 4년만애 본거면 말 다하지않앗나....'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-01-27', 'time': '22:39:00', 'utterance': '그래도 니가 끝까지 보고싶어해줘서 나는 고맙디..'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-01-27', 'time': '22:40:00', 'utterance': '고딩때 친구는 내가 안보니까 그냥 이제 체념하고 포기하고 하는것같긴하드라 그래서 쪼끔 슬프기도 햇다 내가 그렇게해서 이해는 하지만'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-01-27', 'time': '22:49:00', 'utterance': '응 이해하는데.. 너가 어떤상황인지 어떤 입장인지는 잘은 모르겠지만 나는 어떤 상황이든 어떤입장이든 널 보고싶고 같이 이야기 하고 싶고 그래'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-01-27', 'time': '22:50:00', 'utterance': '언제까지나 그럴꺼임'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-01-27', 'time': '22:50:00', 'utterance': '웅 고맙다....♥ 꼭 연락할개'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-01-27', 'time': '22:51:00', 'utterance': '그래 꼭 연락해리!!'}
+{'utteranceID': 'U10', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-01-27', 'time': '22:51:00', 'utterance': '웅 알겟다 !!'}
+만나기 힘든 상황이라도 보고 싶으니 다음에라도 연락하기로 했다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '동생이 동명동간대'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '웅..'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '왓'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '엄마아빠 바로 달려들어서'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': 'ㅋㅋㅋ'}
+{'utteranceID': 'U6', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '가지말라거 햐뒀긴한데'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': 'ㅠㅠㅠ'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '코로나가 창궐하는중인데'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '오바야....'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '그니까'}
+{'utteranceID': 'U11', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '우리아빠왈'}
+{'utteranceID': 'U12', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '하 ㅠ'}
+{'utteranceID': 'U13', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '어딜가시나'}
+{'utteranceID': 'U14', 'turnID': 'T11', 'participantID': 'P01', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '욕먹어도싸'}
+{'utteranceID': 'U15', 'turnID': 'T12', 'participantID': 'P02', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': 'ㅠ'}
+{'utteranceID': 'U16', 'turnID': 'T12', 'participantID': 'P02', 'date': '2020-08-24', 'time': '02:54:00', 'utterance': '가지말지...'}
+동생이 코로나가 확산되는 와중에도 놀러 가서 가족들이 말렸다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-07-21', 'time': '11:15:00', 'utterance': 'ㅠㅠ아니 나의#@이름#이와 카톡을 안한지 이리 오래됫다니'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-07-21', 'time': '11:15:00', 'utterance': '다 내탓이오 미안하오...ㅠㅠㅠ'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-07-21', 'time': '11:25:00', 'utterance': 'ㅋㅋㅋㅋㅋ아니 #@이름# 아주행복한 주말을 보냈나본데..'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-07-21', 'time': '11:36:00', 'utterance': 'ㅋㅋㅋㅋ아니야 요즘 오빠가 집에서 핸드폰하지말래서ㅠㅠ'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-07-21', 'time': '11:38:00', 'utterance': '아니 새폰사서 기쁜데 어케 안만지죠ㅜ'}
+{'utteranceID': 'U6', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-07-21', 'time': '11:39:00', 'utterance': 'ㅋㅋㅋㅋㅋ아니 핸드퐁하지말라는건아니고'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-07-21', 'time': '11:39:00', 'utterance': '집에와사 핸드폰만지고 #@이름#안본다구 머라햇어ㅠㅠ'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-07-21', 'time': '11:42:00', 'utterance': '그럴수있겠다ㅜ 우리도 한동안 폰만만져가지고 대화없다고 대화의시간가졌었자낰ㅋㅋㅋㅋㅋㅋ 요즘은 다시 서로 폰해,,'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-07-21', 'time': '12:23:00', 'utterance': '앜ㅋㅋㅋㅋ'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-07-21', 'time': '12:23:00', 'utterance': '울집은 대화의시간도아니야 #@이름#이봐야해..ㅠㅠㅠ'}
+집에서 너무 새로운 핸드폰만 봐서 오빠가 핸드폰 집에서 핸드폰 적당히 하라고 했다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-12-15', 'time': '21:23:00', 'utterance': '#@시스템#사진#'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-12-15', 'time': '21:23:00', 'utterance': '이런건 목줄착용가능하고 이 목줄도 편하게 산책가능하니까 ㄱㅊㄱㅊ'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-12-15', 'time': '21:24:00', 'utterance': '아 그런걸로?? ㅇㅋㅇㅋ'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-12-15', 'time': '21:24:00', 'utterance': '이렇게 리드쥴 끼는 구멍 있는 제품이 있어'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-12-15', 'time': '21:24:00', 'utterance': '아아아아 알겠어'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-12-15', 'time': '21:25:00', 'utterance': '그런거중에 귀여운걸로 찾아볼게'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-12-15', 'time': '21:25:00', 'utterance': 'ㅇㅇㅇ 좀 유치원생 입을거같은게 귀여워'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-12-15', 'time': '21:25:00', 'utterance': 'ㅇㅈㅇㅈ 양털후두미친존나구ㅏ여워'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-12-15', 'time': '21:25:00', 'utterance': 'ㅇㅇㅇㅇ 아파트다부셔버려'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-12-15', 'time': '21:29:00', 'utterance': '#@시스템#사진#'}
+{'utteranceID': 'U11', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-12-15', 'time': '21:29:00', 'utterance': '이거 분홍색어때'}
+{'utteranceID': 'U12', 'turnID': 'T8', 'participantID': 'P02', 'date': '2019-12-15', 'time': '21:29:00', 'utterance': '아 ㅁㅊ 넘 귀여워'}
+{'utteranceID': 'U13', 'turnID': 'T8', 'participantID': 'P02', 'date': '2019-12-15', 'time': '21:29:00', 'utterance': '갈색 핑크는 최고야'}
+리드 줄 끼는 구멍이 있는 제품으로 구입하려고 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2015-12-28', 'time': '14:02:00', 'utterance': '근데 저거먹는데 피남'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2015-12-28', 'time': '14:02:00', 'utterance': '뭐지'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2015-12-28', 'time': '14:02:00', 'utterance': '희얀하네'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2015-12-28', 'time': '14:03:00', 'utterance': '코랑 입 이어지는 입천장쪽서 피남'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2015-12-28', 'time': '14:03:00', 'utterance': '건조해서 찢어졌었나바'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2015-12-28', 'time': '14:11:00', 'utterance': 'ㄷㄷㄷ으악'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2015-12-28', 'time': '14:12:00', 'utterance': '생각만해도 징글..'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2015-12-28', 'time': '14:23:00', 'utterance': '금방안남'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2015-12-28', 'time': '14:28:00', 'utterance': '건조하면 코피흘리시더니'}
+{'utteranceID': 'U10', 'turnID': 'T6', 'participantID': 'P02', 'date': '2015-12-28', 'time': '14:28:00', 'utterance': '일이 또 텨졌끈'}
+건조해서 찢어졌는지 음식을 먹으면서 입천장에서 피가 났다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': '나는 와꾸 안보는편라닌디'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': '이제포기해야한다싶어....'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': '시불탱 ㅠ'}
+{'utteranceID': 'U4', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': '인품과 돈만 봐야하나여'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': '나도무슨'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': '키작고'}
+{'utteranceID': 'U7', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': '배불뚝이'}
+{'utteranceID': 'U8', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': 'ㅁㅊ'}
+{'utteranceID': 'U9', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': '존못탱이 ㅠ'}
+{'utteranceID': 'U10', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': '아녀근디너'}
+{'utteranceID': 'U11', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-03-26', 'time': '21:43:00', 'utterance': '후'}
+인품과 돈만 봐야 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-06-23', 'time': '10:47:00', 'utterance': 'Lg디스플레이'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-06-23', 'time': '10:48:00', 'utterance': '현대모비스 189000원인데 이 가격에 사도 괜찮을까요?'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-06-23', 'time': '10:56:00', 'utterance': 'ㅇㅇ'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-06-23', 'time': '10:56:00', 'utterance': '지금 19만원이네'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-06-23', 'time': '10:56:00', 'utterance': '예전에 우리 샀었음.'}
+{'utteranceID': 'U6', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-06-23', 'time': '10:56:00', 'utterance': '어'}
+{'utteranceID': 'U7', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-06-23', 'time': '10:56:00', 'utterance': '언니랑 나랑'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-06-23', 'time': '10:56:00', 'utterance': '176000원에 샀던거 같음'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-06-23', 'time': '10:57:00', 'utterance': '17만원이면 5월달 이었네'}
+{'utteranceID': 'U10', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-06-23', 'time': '10:57:00', 'utterance': '그럼 현대 모비스를  187000원에 삼백만원정도 걸어놔봐요'}
+{'utteranceID': 'U11', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-06-23', 'time': '10:57:00', 'utterance': '그때 5프로정도 먹고 팔았음'}
+{'utteranceID': 'U12', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-06-23', 'time': '11:06:00', 'utterance': '179,000 원에 삿엇대요 현대모비스'}
+{'utteranceID': 'U13', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-06-23', 'time': '11:07:00', 'utterance': '어'}
+{'utteranceID': 'U14', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-06-23', 'time': '11:09:00', 'utterance': '제넥신은 나중에 언니 통해 사든가 하게 그럼 현대모비스를 오늘 사봐요'}
+{'utteranceID': 'U15', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-06-23', 'time': '11:09:00', 'utterance': '좀 더 떨어지면'}
+{'utteranceID': 'U16', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-06-23', 'time': '11:09:00', 'utterance': '지금 가격으로 사도 괜찮으면 그냥 사든가요'}
+{'utteranceID': 'U17', 'turnID': 'T11', 'participantID': 'P01', 'date': '2020-06-23', 'time': '11:13:00', 'utterance': '지금 살꼐'}
+5월에 언니와 사서 5프로 정도 수익을 보고 팔았던 현대 모비스를 지금 사도 괜찮다고 해서 사기로 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': '화장안한거얔ㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': '논나예빠욤'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': '존나개편하네'}
+{'utteranceID': 'U4', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': '#@이모티콘#'}
+{'utteranceID': 'U5', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': 'ㅋㅋㅋㅋ님도담에여기서해라'}
+{'utteranceID': 'U6', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': '난연장은'}
+{'utteranceID': 'U7', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': '안혀...'}
+{'utteranceID': 'U8', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': '눈이편햌ㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': '왜'}
+{'utteranceID': 'U10', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': '나는눈뻑뻑씻는게'}
+{'utteranceID': 'U11', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-04-05', 'time': '18:15:00', 'utterance': '좋아...'}
+눈썹 연장술을 하는 것과 안 하는 것 중 선호하는 것에 대해 대화한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': '#@시스템#사진#'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': '너네 이 인형 알아?ㅋㄱㅋㄱㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': '나 알앜ㅋㅋㅋㅋ'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': '명동 가서 가끔 봣늠데 갑자기 생각나서'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': '1시간내내 검색해서 드디어 찾음'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P03', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': '무ㅜ야 이게'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P02', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': 'ㅋㅋㅋㅋㅋ저거 명동에 특히 더 많음'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P03', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': '기괴하다ㅋㅋㅋ'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P02', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': '이거 왜'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P02', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': '사게?'}
+{'utteranceID': 'U11', 'turnID': 'T8', 'participantID': 'P03', 'date': '2020-01-02', 'time': '00:04:00', 'utterance': '첨봄'}
+{'utteranceID': 'U12', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-01-02', 'time': '00:05:00', 'utterance': '헐 못봣다니'}
+{'utteranceID': 'U13', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-01-02', 'time': '00:05:00', 'utterance': '이거 트럭에 놓고 파는데 개웃긴데 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U14', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-01-02', 'time': '00:05:00', 'utterance': '아니 갑자기 새각낫는데'}
+{'utteranceID': 'U15', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-01-02', 'time': '00:05:00', 'utterance': '저 인형 이름을 몰라서 계속 검색핮'}
+명동에서 본 인형이 생각이 나서 검색해서 찾았다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-01-08', 'time': '23:16:00', 'utterance': '냐한남자 올소'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-01-08', 'time': '23:16:00', 'utterance': '아침에 이러고이ㅛ다'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-01-08', 'time': '23:16:00', 'utterance': '이거야 김춘뱈ㅋㅋㅋ'}
+{'utteranceID': 'U4', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-01-08', 'time': '23:17:00', 'utterance': '뭐야이게 이런만화도있어???'}
+{'utteranceID': 'U5', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-01-08', 'time': '23:17:00', 'utterance': '웹툰'}
+{'utteranceID': 'U6', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-01-08', 'time': '23:17:00', 'utterance': '응 금요일'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-01-08', 'time': '23:17:00', 'utterance': '이거 애들 귀여워ㅠㅠ'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-01-08', 'time': '23:17:00', 'utterance': '나 네이버웹툰 완전 챙겨보는데 처음봐'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-01-08', 'time': '23:17:00', 'utterance': '#@시스템#사진#'}
+{'utteranceID': 'U10', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-01-08', 'time': '23:17:00', 'utterance': '요즘 이거 정주행중이야 이거 다보면 저것도 봐야지'}
+{'utteranceID': 'U11', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-01-08', 'time': '23:18:00', 'utterance': '명동이도 조아ㅠㅠ'}
+{'utteranceID': 'U12', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-01-08', 'time': '23:18:00', 'utterance': '#@시스템#기타#'}
+{'utteranceID': 'U13', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-01-08', 'time': '23:19:00', 'utterance': '헐'}
+{'utteranceID': 'U14', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-01-08', 'time': '23:19:00', 'utterance': '고마버'}
+네이버 웹툰을 추천하고 있다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-07-12', 'time': '17:23:00', 'utterance': '징계나 이런건 절대 아니니 그런 걱정은 안해도 되는데...'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-07-12', 'time': '17:23:00', 'utterance': '삼사일 폭풍야근은 해야하지 싶네 ㅜㅜ'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-07-12', 'time': '17:24:00', 'utterance': '안읽네ㅋㅋ 암튼 이따 들가서 얘기해줄께 미안해 ㅜㅜ 오늘은 꼭 일찍갈라구 했는데'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2017-07-12', 'time': '17:26:00', 'utterance': 'ㅜㅜㅜ'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2017-07-12', 'time': '17:26:00', 'utterance': '에효....'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2017-07-12', 'time': '17:26:00', 'utterance': '고생이네..술먹어서 피곤도할텐데ㅜㅜ일까지터지고ㅜㅜ중복에는 삼계탕꼭 사주길'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2017-07-12', 'time': '17:27:00', 'utterance': '사주길...Nono'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2017-07-12', 'time': '17:27:00', 'utterance': '사줄께 ok?'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2017-07-12', 'time': '17:27:00', 'utterance': 'ㅋㅋ 그령~~고생하고..전화햐~~'}
+일을 하다 문제가 생겨 해야 하는 야근에 대해 이야기하고 있다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-11-08', 'time': '15:58:00', 'utterance': '하 자두자두 머리아팡'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-11-08', 'time': '15:58:00', 'utterance': '#@이름#가 오래못자네ㅜ'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-11-08', 'time': '15:58:00', 'utterance': '내가 이불덮어즈ㅓ서 더운가 ㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-11-08', 'time': '16:25:00', 'utterance': '금방금방깨?ㅠㅠ'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-11-08', 'time': '16:39:00', 'utterance': '웅 ㅠㅠ삼사십분만 자네ㅠ'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-11-08', 'time': '16:46:00', 'utterance': '#@이름#이 엄마아푸다구 걱정되서일찍깨는거 아닌지 효녀#@이름#'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-11-08', 'time': '16:46:00', 'utterance': '두통이심해? 열은 내려갓오?'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-11-08', 'time': '17:07:00', 'utterance': 'ㅋㅋㅋ너무 갓다 #@이름#ㅠㅠㅠ'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-11-08', 'time': '17:08:00', 'utterance': 'ㅋㅋㅋㅋ각정되서 깨다뇨ㅠㅠ'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-11-08', 'time': '17:08:00', 'utterance': '웅 ㅠㅠ아니 열 아직 그대르얍'}
+{'utteranceID': 'U11', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-11-08', 'time': '17:09:00', 'utterance': '열이왜안내려간댜ㅠㅠ'}
+{'utteranceID': 'U12', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-11-08', 'time': '17:09:00', 'utterance': '약먹어야하는고아냐? 그러다 혼자잇는데 엄청아푸면오째ㅠㅠ'}
+{'utteranceID': 'U13', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-11-08', 'time': '18:12:00', 'utterance': '웅 그레서 오빠가 타이레놀사왓어ㅜㅜ'}
+두통이 심해서 오빠가 약을 사 왔다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-03-20', 'time': '16:29:00', 'utterance': '#@이름#할맥갈까'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-03-20', 'time': '16:29:00', 'utterance': '오늘 알바안가'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-03-20', 'time': '16:29:00', 'utterance': '왜 ? 비와서 ?'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-03-20', 'time': '16:29:00', 'utterance': 'ㄴㄴ'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-03-20', 'time': '16:29:00', 'utterance': '수도관'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-03-20', 'time': '16:29:00', 'utterance': '터졌대'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-03-20', 'time': '16:31:00', 'utterance': '할맥갈까'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-03-20', 'time': '16:43:00', 'utterance': '헐...'}
+{'utteranceID': 'U9', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-03-20', 'time': '16:43:00', 'utterance': '할맥이모야'}
+{'utteranceID': 'U10', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-03-20', 'time': '16:43:00', 'utterance': '할머니맥주'}
+{'utteranceID': 'U11', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-03-20', 'time': '19:47:00', 'utterance': '할맥 안가또'}
+수도관이 터져서 알바를 가지 않아 할머니 맥주(할맥)에 갈까 고민하다 가지 않는다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:07:00', 'utterance': '그걸로 환불안해주면 언니폭발'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:07:00', 'utterance': '지금 어제 5시에 사가고 24시간도 안되고 차지도 않았는데 스크래치??????......'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': 'ㅋㅋㅋㅋ 좀 기분나빠'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': '뭔 그런 개떡같은 상품을 줬어'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': '진상취급 느낌이야'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': '자기들은 새상품을줬는데'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': '스크래치가 많대'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': '라고 존나 머라할거야'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': '아니 지금 몇번 꺼내보지도않았는데'}
+{'utteranceID': 'U11', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': '스크래치가 많대 무슨'}
+{'utteranceID': 'U12', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ어이없어'}
+{'utteranceID': 'U13', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:08:00', 'utterance': '내가 끼고왔으면 인정'}
+{'utteranceID': 'U14', 'turnID': 'T6', 'participantID': 'P02', 'date': '2016-10-16', 'time': '14:09:00', 'utterance': '그러게'}
+{'utteranceID': 'U15', 'turnID': 'T7', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:09:00', 'utterance': 'ㅋㅋㅋㅋㅋ개웃겨'}
+{'utteranceID': 'U16', 'turnID': 'T8', 'participantID': 'P02', 'date': '2016-10-16', 'time': '14:09:00', 'utterance': '다음부터는 스크래치 많은상품은'}
+{'utteranceID': 'U17', 'turnID': 'T8', 'participantID': 'P02', 'date': '2016-10-16', 'time': '14:09:00', 'utterance': '환불안된다는데'}
+{'utteranceID': 'U18', 'turnID': 'T8', 'participantID': 'P02', 'date': '2016-10-16', 'time': '14:09:00', 'utterance': '좀 꽁기'}
+{'utteranceID': 'U19', 'turnID': 'T8', 'participantID': 'P02', 'date': '2016-10-16', 'time': '14:10:00', 'utterance': '진상된느낌ㅋㅋ'}
+{'utteranceID': 'U20', 'turnID': 'T9', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:10:00', 'utterance': '아니 24시간도 안됐는데 그렇게 스크래치 쩔면 그게 상품이세여?????'}
+{'utteranceID': 'U21', 'turnID': 'T9', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:10:00', 'utterance': 'ㅋㅋㅋㅋㅋ몇달끼면'}
+{'utteranceID': 'U22', 'turnID': 'T9', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:10:00', 'utterance': '아주 기스목걸이겠어'}
+{'utteranceID': 'U23', 'turnID': 'T9', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:10:00', 'utterance': '어이없네'}
+{'utteranceID': 'U24', 'turnID': 'T9', 'participantID': 'P01', 'date': '2016-10-16', 'time': '14:10:00', 'utterance': '나왔어 구래서?'}
+{'utteranceID': 'U25', 'turnID': 'T10', 'participantID': 'P02', 'date': '2016-10-16', 'time': '14:10:00', 'utterance': 'ㅇㅇ'}
+어제 구입 후 착용하지 않은 물건을 환불받았는데 스크래치가 많다고 해서 어이가 없었다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2016-05-02', 'time': '22:43:00', 'utterance': '여태모했어??'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2016-05-02', 'time': '23:16:00', 'utterance': '미팅ㅜㅜㅜㅡㅠ'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2016-05-02', 'time': '23:17:00', 'utterance': '발표했어ㅜㅜ'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2016-05-02', 'time': '23:17:00', 'utterance': '먼발표를여태해?'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2016-05-02', 'time': '23:17:00', 'utterance': '집도안보내면서해?'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2016-05-02', 'time': '23:17:00', 'utterance': '두명이발표하는데ㅜㅜㅜㅜ'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-05-02', 'time': '23:17:00', 'utterance': '#@이모티콘#'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2016-05-02', 'time': '23:17:00', 'utterance': '대박이지'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P01', 'date': '2016-05-02', 'time': '23:17:00', 'utterance': '죽을라고'}
+{'utteranceID': 'U10', 'turnID': 'T8', 'participantID': 'P02', 'date': '2016-05-02', 'time': '23:17:00', 'utterance': '겁나늦게끝나써'}
+발표를 하느라 늦게 끝났다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:27:00', 'utterance': '고민좀'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:27:00', 'utterance': '잠깐들어줄래??'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:27:00', 'utterance': '현명한#@이름#???'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-04-15', 'time': '09:32:00', 'utterance': '뭐 ㅜㅡ'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:32:00', 'utterance': '팀장님이 오늘 면담하자고 했거든 ? 나한테 ?'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '근데 그만두는지 그런거 말하는 거 같은데'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '어케말해야 현명할까'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '돼지야'}
+{'utteranceID': 'U9', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '나그만둘거니까'}
+{'utteranceID': 'U10', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '잘해주든지 말든지'}
+{'utteranceID': 'U11', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '맘대로해'}
+{'utteranceID': 'U12', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U13', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '라고말해'}
+{'utteranceID': 'U14', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '아나진짴ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U15', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U16', 'turnID': 'T8', 'participantID': 'P02', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U17', 'turnID': 'T9', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '나울어 ㅠㅠㅠㅠ너무웃겨서 ㅠㅠㅠㅠㅠㅠㅠㅠㅠ'}
+{'utteranceID': 'U18', 'turnID': 'T10', 'participantID': 'P02', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U19', 'turnID': 'T10', 'participantID': 'P02', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '웃기네ㅋㅎ'}
+{'utteranceID': 'U20', 'turnID': 'T11', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U21', 'turnID': 'T11', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '지금사무실에서'}
+{'utteranceID': 'U22', 'turnID': 'T11', 'participantID': 'P01', 'date': '2019-04-15', 'time': '09:33:00', 'utterance': '혼자음소거웃음중'}
+오늘 팀장님이 면담하자는데 그만둔다는 말을 어떻게 해야 할지 고민하고 있다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-03-02', 'time': '16:07:00', 'utterance': '#@이름# 배 태워준다니까 모르는아저씨 막 따라감 ㅋ'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-03-02', 'time': '17:27:00', 'utterance': '머야탔네ㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P03', 'date': '2019-03-02', 'time': '21:32:00', 'utterance': '매형은 생선좀 잡았어?'}
+{'utteranceID': 'U4', 'turnID': 'T4', 'participantID': 'P01', 'date': '2019-03-02', 'time': '21:46:00', 'utterance': '그럴리가'}
+{'utteranceID': 'U5', 'turnID': 'T5', 'participantID': 'P02', 'date': '2019-03-02', 'time': '21:47:00', 'utterance': '아직인가여ㅠㅠ'}
+{'utteranceID': 'U6', 'turnID': 'T6', 'participantID': 'P03', 'date': '2019-03-02', 'time': '21:47:00', 'utterance': '어디바다간거야?'}
+{'utteranceID': 'U7', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-03-02', 'time': '21:50:00', 'utterance': '서해'}
+{'utteranceID': 'U8', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-03-02', 'time': '21:50:00', 'utterance': '남당항'}
+서해 남당항으로 낚시하러 갔다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2018-10-19', 'time': '00:49:00', 'utterance': '#@시스템#사진#'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2018-10-19', 'time': '00:50:00', 'utterance': '존맛 굴뚝빵 1일 1 굴뚝빵 해여댐'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2018-10-19', 'time': '01:04:00', 'utterance': '#@시스템#사진#'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-10-19', 'time': '09:03:00', 'utterance': '기야워ㅜㅠㅠㅠㅠㅠㅠㅠ'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-10-19', 'time': '09:03:00', 'utterance': '굴뚝빵 모야'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-10-19', 'time': '09:03:00', 'utterance': 'ㅠㅠㅠㅠㅠ종귀탱'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2018-10-19', 'time': '15:40:00', 'utterance': '오눌도 먹을거야 굴뚝빵.. 존맛 ㅠㅠㅠ'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2018-10-19', 'time': '22:53:00', 'utterance': '굴뚝빵'}
+{'utteranceID': 'U9', 'turnID': 'T4', 'participantID': 'P02', 'date': '2018-10-19', 'time': '22:53:00', 'utterance': '..........'}
+{'utteranceID': 'U10', 'turnID': 'T4', 'participantID': 'P02', 'date': '2018-10-19', 'time': '22:53:00', 'utterance': '나두 유럽갈뤠'}
+굴뚝 빵이 맛있다는 이야기를 하고 있다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2018-02-19', 'time': '00:01:00', 'utterance': '괜찮아'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-02-19', 'time': '00:01:00', 'utterance': '그런것들조차 보여주기엔'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2018-02-19', 'time': '00:01:00', 'utterance': '응응 알아...'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2018-02-19', 'time': '00:01:00', 'utterance': '아직은 너무 빠르다는거'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2018-02-19', 'time': '00:01:00', 'utterance': '근데 그거말고는 노력해볼게'}
+{'utteranceID': 'U6', 'turnID': 'T5', 'participantID': 'P01', 'date': '2018-02-19', 'time': '00:01:00', 'utterance': '응응 고마워'}
+{'utteranceID': 'U7', 'turnID': 'T6', 'participantID': 'P02', 'date': '2018-02-19', 'time': '00:01:00', 'utterance': '나 원래 엄청 찡찡거려.......'}
+{'utteranceID': 'U8', 'turnID': 'T7', 'participantID': 'P01', 'date': '2018-02-19', 'time': '00:01:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋ'}
+그런 것들조차 보여주기에는 아직 너무 빠르다는 것을 안다고 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-06-18', 'time': '13:05:00', 'utterance': '음'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '페이유에'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '#@이름#'}
+{'utteranceID': 'U4', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '생선으로'}
+{'utteranceID': 'U5', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '주까'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '음 아니'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '그냥 내꺼만 사?'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '웅 ㅎㅎ 생선으로는 좀 아니지..'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': 'ㅇㅅㅇ흐음... 그런가'}
+{'utteranceID': 'U10', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '녜에 그냥 뮬 하나나 두개 사'}
+{'utteranceID': 'U11', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '웅'}
+{'utteranceID': 'U12', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '알게따 ~'}
+{'utteranceID': 'U13', 'turnID': 'T8', 'participantID': 'P02', 'date': '2019-06-18', 'time': '13:06:00', 'utterance': '#@이모티콘#'}
+페이유에서 생일선물(생선)을 사줄까 했더니 애매하다고 해서 본인 것만 사기로 했다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '#@시스템#사진#'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '나 봐봐'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '내 얼굴'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '어머'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '왜 눈을'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '눈 시려보여'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '안 떳어'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': 'ㅁㄹ 왜 저래'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '눈 다 풀려서'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '너무 웃김'}
+{'utteranceID': 'U11', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '술 마셨너?!?!'}
+{'utteranceID': 'U12', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': 'ㅇㅇ'}
+{'utteranceID': 'U13', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': 'ㄹㅇ'}
+{'utteranceID': 'U14', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-01-13', 'time': '01:21:00', 'utterance': '한 잔 걸친 얼굴이여'}
+눈이 다 풀려서 얼굴이 너무 웃기다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-11-02', 'time': '22:19:00', 'utterance': '어머 #@이름# 네이버포인트봐밬ㅋㅋ'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-11-02', 'time': '22:20:00', 'utterance': '월말에 뭐 달성햇다고 포인트 줫오!! #@이름#도 줫겟지?'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-11-02', 'time': '22:21:00', 'utterance': '기뷰니 굿이야'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-11-02', 'time': '22:24:00', 'utterance': '#@시스템#사진#'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-11-02', 'time': '22:24:00', 'utterance': '월간혜택저건가?? 개쩐다'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-11-02', 'time': '22:24:00', 'utterance': '웅웅'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-11-02', 'time': '22:24:00', 'utterance': '저아 기뷴핵저아'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-11-02', 'time': '22:24:00', 'utterance': '와마니줘쎀ㅋㅋㅋㅋ개조타'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-11-02', 'time': '22:24:00', 'utterance': '나는 만육처넌ㅋㅋㅋㅋ'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-11-02', 'time': '22:25:00', 'utterance': '꿀이댜 중말 나 네이버포인트 넘 많아서 뭔일인가해짜나'}
+{'utteranceID': 'U11', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-11-02', 'time': '22:25:00', 'utterance': '나도 만삼천원들어왔다 ㅋㅋㅋ'}
+네이버 포인트가 들어와서 기쁘다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2016-12-05', 'time': '19:53:00', 'utterance': '니네 삼촌계좌로 125000원 입금했다'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2016-12-05', 'time': '19:53:00', 'utterance': 'ㅇㅇ?'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2016-12-05', 'time': '19:54:00', 'utterance': '칡즙 백포짜리 1개랑 50포 주문받아서'}
+{'utteranceID': 'U4', 'turnID': 'T4', 'participantID': 'P02', 'date': '2016-12-05', 'time': '19:54:00', 'utterance': '#@이모티콘#'}
+{'utteranceID': 'U5', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-12-05', 'time': '19:54:00', 'utterance': '아까 엄마한테 전화했더니 50포는 4만5천원 줘야된다케서'}
+{'utteranceID': 'U6', 'turnID': 'T6', 'participantID': 'P02', 'date': '2016-12-05', 'time': '19:54:00', 'utterance': 'ㅇㅇ'}
+{'utteranceID': 'U7', 'turnID': 'T7', 'participantID': 'P01', 'date': '2016-12-05', 'time': '19:54:00', 'utterance': '입금은 한번에 내이름으로 했고주소는 따로라서 지금 확인해서 보내줄게'}
+{'utteranceID': 'U8', 'turnID': 'T8', 'participantID': 'P02', 'date': '2016-12-05', 'time': '19:55:00', 'utterance': 'ㅇㅇ 내일  보내마'}
+{'utteranceID': 'U9', 'turnID': 'T8', 'participantID': 'P02', 'date': '2016-12-05', 'time': '19:56:00', 'utterance': '엄청  피곤해서 어지러븐디 누웠는데도 쉽사리 안오네...'}
+{'utteranceID': 'U10', 'turnID': 'T9', 'participantID': 'P01', 'date': '2016-12-05', 'time': '19:58:00', 'utterance': '100포'}
+칡즙 주문 금액을 알려주고 주소를 확인해서 보내주기로 했다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-11-01', 'time': '13:01:00', 'utterance': '밥 할때 남은 밥'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-11-01', 'time': '13:01:00', 'utterance': '밖에 2시간 이상 놔두면 안된대'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-11-01', 'time': '13:01:00', 'utterance': '아 진짜? 엄마가'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-11-01', 'time': '13:01:00', 'utterance': '잘놔두는데?'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-11-01', 'time': '13:01:00', 'utterance': '오래 놔두면 세균번식해서 식중독에 암걸린대'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-11-01', 'time': '13:02:00', 'utterance': '아 진짜? 완전 위험하네'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-11-01', 'time': '13:02:00', 'utterance': '다음부턴 식은밥을'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-11-01', 'time': '13:02:00', 'utterance': '안만들어야겠다'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-11-01', 'time': '13:02:00', 'utterance': '그래 아니면 냉동실에 얼려라'}
+남은 밥을 상온에 2시간 이상 두면 안 된다고 알려주었다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2015-12-15', 'time': '20:13:00', 'utterance': '경기버스가'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2015-12-15', 'time': '20:13:00', 'utterance': '홓홓'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2015-12-15', 'time': '20:13:00', 'utterance': '아침마다'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2015-12-15', 'time': '20:13:00', 'utterance': '창문 100개중'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2015-12-15', 'time': '20:13:00', 'utterance': '2개가 꺼지면?'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2015-12-15', 'time': '20:13:00', 'utterance': '정답!'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2015-12-15', 'time': '20:13:00', 'utterance': '윈도우98'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2015-12-15', 'time': '20:13:00', 'utterance': '으ㅇ?'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2015-12-15', 'time': '20:13:00', 'utterance': '이런거 재생해줌'}
+{'utteranceID': 'U10', 'turnID': 'T6', 'participantID': 'P02', 'date': '2015-12-15', 'time': '20:13:00', 'utterance': '왓..?'}
+{'utteranceID': 'U11', 'turnID': 'T6', 'participantID': 'P02', 'date': '2015-12-15', 'time': '20:14:00', 'utterance': '뭔드립?'}
+아침마다 창문 100개 중 2개가 꺼지면? 정답! 윈도 98이라는 난센스 퀴즈를 이야기해 준다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-11-01', 'time': '12:24:00', 'utterance': '백도복숭아이런느낌 ㅋㅋㅋ'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-11-01', 'time': '12:24:00', 'utterance': '그러게 ㅋㅋ'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-11-01', 'time': '12:24:00', 'utterance': '어후 ㅋㅋㅋㅋ'}
+{'utteranceID': 'U4', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-11-01', 'time': '12:24:00', 'utterance': '암튼 머'}
+{'utteranceID': 'U5', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-11-01', 'time': '12:24:00', 'utterance': '우웅'}
+{'utteranceID': 'U6', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-11-01', 'time': '12:24:00', 'utterance': '담엔 우롱차 시키면되지'}
+{'utteranceID': 'U7', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-11-01', 'time': '12:24:00', 'utterance': '마쟈요옹'}
+{'utteranceID': 'U8', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-11-01', 'time': '12:24:00', 'utterance': '넘피곤스'}
+다음에는 우롱차를 시키기로 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-12-19', 'time': '00:10:00', 'utterance': '언니ㅋㅋㅋㅋ'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': '가족이니까 가는거여'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': '친구면싸워 텐트치고 밤 어케 샠ㅋㅋㅋ'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': '개웃겨'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': '한명이라도 저런거 싫어하면'}
+{'utteranceID': 'U7', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': '쫑나는겨'}
+{'utteranceID': 'U8', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': '가족이면 싸워도 어차피 풀어야하잖아'}
+{'utteranceID': 'U9', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U10', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': '마치 #@이름#가'}
+{'utteranceID': 'U11', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': '한복입고 경복궁가는걸'}
+{'utteranceID': 'U12', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': '싫어하듯이'}
+{'utteranceID': 'U13', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-12-19', 'time': '00:11:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+가족이면 싸워도 풀어야 하니까 가는 것이다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-11-01', 'time': '18:11:00', 'utterance': '횡단보도 주변에 있던'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-11-01', 'time': '18:11:00', 'utterance': '미용실 진짜 실력이좋은가봐'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-11-01', 'time': '18:11:00', 'utterance': '맞나 머리 마음에 드는가보네'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-11-01', 'time': '18:11:00', 'utterance': '엉 잘랐는데 뻣침도 없고'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-11-01', 'time': '18:11:00', 'utterance': '다른 미용실과 뭔가 다른것 같다'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-11-01', 'time': '18:12:00', 'utterance': '그래 그럼 앞으로 그 미용실만 가라'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-11-01', 'time': '18:12:00', 'utterance': '비싸다고 다좋은건 아닌가봐'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-11-01', 'time': '18:12:00', 'utterance': '거긴 저렴한데 실력도 좋고'}
+횡단보도 주변에 있던 미용실에서 머리를 잘랐는데 저렴하고 실력도 좋아 마음에 든다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:47:00', 'utterance': '아배고프다'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:47:00', 'utterance': '집가서'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:47:00', 'utterance': 'ㅇㅇ'}
+{'utteranceID': 'U4', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:47:00', 'utterance': '밥먹어야지'}
+{'utteranceID': 'U5', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:47:00', 'utterance': '운전면허부터따셔'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-06-11', 'time': '13:47:00', 'utterance': '이번껀 넘 촉박해...'}
+{'utteranceID': 'U7', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-06-11', 'time': '13:47:00', 'utterance': '앱'}
+{'utteranceID': 'U8', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-06-11', 'time': '13:47:00', 'utterance': '진지하다'}
+{'utteranceID': 'U9', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-06-11', 'time': '13:48:00', 'utterance': '님근데 소방 준비할꺼면 광주 전남'}
+{'utteranceID': 'U10', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-06-11', 'time': '13:48:00', 'utterance': '진지하게고민'}
+{'utteranceID': 'U11', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-06-11', 'time': '13:48:00', 'utterance': '님의선택은'}
+{'utteranceID': 'U12', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:48:00', 'utterance': '합격률이랑 일편할거생각하면전남인디'}
+{'utteranceID': 'U13', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:49:00', 'utterance': '너자취할생각잇으 ㄱ'}
+{'utteranceID': 'U14', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:49:00', 'utterance': '전남해'}
+{'utteranceID': 'U15', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:49:00', 'utterance': '근데'}
+{'utteranceID': 'U16', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:49:00', 'utterance': '전남하면'}
+{'utteranceID': 'U17', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-06-11', 'time': '13:49:00', 'utterance': '웅'}
+{'utteranceID': 'U18', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-06-11', 'time': '13:49:00', 'utterance': '진주생펴ㅏㄹ처럼'}
+소방 공무원 합격률과 일이 편한 거 생각하면 광주 전남이다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-08-28', 'time': '02:56:00', 'utterance': '하나부족해?'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '아'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '하나부족하다고...'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': 'ㅠㅠ'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '몇번이나 말하나'}
+{'utteranceID': 'U6', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '내꺼주싶다'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': 'ㅋㅋㅋ'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '아 진짜 삑챴어 ..'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '왜화내ㅠ'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '화날만해유. ..'}
+{'utteranceID': 'U11', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '잠다달아났겠네ㅠ'}
+{'utteranceID': 'U12', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '냐 이천오백원 존나아까워 지금'}
+{'utteranceID': 'U13', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': 'ㅋㅋㅋ 제가줄까요...'}
+{'utteranceID': 'U14', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '후................돌려줘'}
+{'utteranceID': 'U15', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '왓'}
+{'utteranceID': 'U16', 'turnID': 'T11', 'participantID': 'P01', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '저한테말하지'}
+{'utteranceID': 'U17', 'turnID': 'T11', 'participantID': 'P01', 'date': '2020-08-28', 'time': '02:57:00', 'utterance': '내가대신질릐줌되는데'}
+2500원이 아까워서 화가 난 것에 대해 이야기한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-06-26', 'time': '00:05:00', 'utterance': '#@이름#는'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-06-26', 'time': '00:05:00', 'utterance': '#@이름#'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-06-26', 'time': '00:05:00', 'utterance': '여수가서'}
+{'utteranceID': 'U4', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-06-26', 'time': '00:05:00', 'utterance': '아침밥'}
+{'utteranceID': 'U5', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-06-26', 'time': '00:05:00', 'utterance': '해줄 메뉴'}
+{'utteranceID': 'U6', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-06-26', 'time': '00:05:00', 'utterance': '선택'}
+{'utteranceID': 'U7', 'turnID': 'T2', 'participantID': 'P02', 'date': '2017-06-26', 'time': '00:06:00', 'utterance': '여봉'}
+{'utteranceID': 'U8', 'turnID': 'T2', 'participantID': 'P02', 'date': '2017-06-26', 'time': '00:06:00', 'utterance': '돌을 가져와두 씹어먹어주겄엉'}
+{'utteranceID': 'U9', 'turnID': 'T3', 'participantID': 'P01', 'date': '2017-06-26', 'time': '00:07:00', 'utterance': '#@시스템#검색#'}
+{'utteranceID': 'U10', 'turnID': 'T4', 'participantID': 'P02', 'date': '2017-06-26', 'time': '00:22:00', 'utterance': '돌양념볶음 ㅎㅎ'}
+{'utteranceID': 'U11', 'turnID': 'T4', 'participantID': 'P02', 'date': '2017-06-26', 'time': '00:22:00', 'utterance': '곱창이넹'}
+여수에 가서 아침에 먹을 메뉴를 의논했다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-08-01', 'time': '18:14:00', 'utterance': '5분후도착'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-08-01', 'time': '18:20:00', 'utterance': '도착'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2017-08-01', 'time': '18:20:00', 'utterance': '여기도무인카메라있는데어쩌지?'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2017-08-01', 'time': '18:20:00', 'utterance': '너무 빨라ㅜㅜ'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2017-08-01', 'time': '18:20:00', 'utterance': '한바쿠돌아야겠다'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2017-08-01', 'time': '18:21:00', 'utterance': '언제나와?'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2017-08-01', 'time': '18:21:00', 'utterance': '응~^^난 15분만'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2017-08-01', 'time': '18:27:00', 'utterance': '나올때톡줘~'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2017-08-01', 'time': '18:40:00', 'utterance': '나가'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P01', 'date': '2017-08-01', 'time': '18:40:00', 'utterance': '빨리왕ㅜㅜ'}
+무인 카메라가 있으니 빨리 나와야 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-10-02', 'time': '22:51:00', 'utterance': '애들 거품형 페이스워시 사고싶어'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-10-02', 'time': '22:51:00', 'utterance': '부탁드려요 #@이름# ㅋㅋ'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-10-02', 'time': '23:07:00', 'utterance': '앗ㅋㅋ넹ㅋㅋㅋ'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-10-02', 'time': '23:07:00', 'utterance': '어떤거여?'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-10-02', 'time': '23:14:00', 'utterance': '그냥 폼워시'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-10-02', 'time': '23:16:00', 'utterance': '따로 할인안하는거면 토요일에 3달러 받고 사는게 쌀지도몰라여!'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-10-02', 'time': '23:18:00', 'utterance': '오키 그러지뭐'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-10-02', 'time': '23:34:00', 'utterance': '기다릴게'}
+아이들 폼 워시를 토요일에 3달러 받고 싸게 사기로 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-01-26', 'time': '16:01:00', 'utterance': '내가 어제동선 짜보는데 햄버거는 사람거의없거나 웨이팅 있거나 둘중하나라서 나와서 먹고 다시 숙소들어가지말고 그냥 퇴실보다 좀 일찍나와서 먹으면 될거같아(11~12시쯤 퇴실)'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-01-26', 'time': '16:02:00', 'utterance': '먹고강문~안목 걷고 카페갔다 시장가고 강릉역 가기!'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-01-26', 'time': '16:04:00', 'utterance': '웨이팅이 걸어놓고 쭉 기다리는거라 퇴실 시간까지 기다리면 다시 숙소가고 동선엉키니까 퇴실후에 햄버거먹자'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-01-26', 'time': '16:49:00', 'utterance': '그래?난 짐 안들고다닐려고해서...'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-01-26', 'time': '16:50:00', 'utterance': '그럼 가기전에 전화해보고 정함되지않을까?어차피 거리 안 멀다고하지않았음?'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-01-26', 'time': '17:32:00', 'utterance': '나는 잠 더자고 그냥 나오는게 나을거같아스'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-01-26', 'time': '17:34:00', 'utterance': '나왔다 들어가는게 더 귀찮을거같아서.. 짐갖고나오면 먹고나와서 바로 안목 걸어가면되는데'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-01-26', 'time': '20:28:00', 'utterance': '그래?그럼뭐ㅋㅋㅋㅋ짐들고가지뭐'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-01-26', 'time': '21:42:00', 'utterance': '그게 몸이 더 편하긴 할거야'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-01-26', 'time': '21:42:00', 'utterance': '가방 최대한 적게싸서가잣'}
+{'utteranceID': 'U11', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-01-27', 'time': '01:20:00', 'utterance': 'ㅇㅇ적게싸는게최고지ㅋㅋ'}
+퇴실을 일찍 하고 짐을 가지고 햄버거 집에 갈지, 짐 없이 햄버거 집에 갔다가 다시 가서 퇴실을 할지에 대해서 의논했는데 퇴실하고 가기로 했다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-15', 'time': '08:43:00', 'utterance': '있겠디???'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-15', 'time': '08:43:00', 'utterance': '진짜 알맹이옶눈'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-15', 'time': '08:43:00', 'utterance': '깡통을 누가 가져가'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-15', 'time': '08:44:00', 'utterance': '맞아'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-15', 'time': '08:44:00', 'utterance': '있을거야'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-15', 'time': '08:44:00', 'utterance': '오늘 휴가였으면 내가 문열때 가서 물어보는건데'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-15', 'time': '08:44:00', 'utterance': '아니얌저나해보면 되지!'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-15', 'time': '08:44:00', 'utterance': '아 맞네'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-15', 'time': '08:44:00', 'utterance': '점심때 가두'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-15', 'time': '08:44:00', 'utterance': '안 늦옹'}
+휴가가 아니라 문을 열 때 가서 물어보지 못한 것을 전화해 보기로 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2018-04-07', 'time': '14:24:00', 'utterance': '데투안해욘?'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-04-07', 'time': '14:24:00', 'utterance': '밖에 벚꽃도보이네염'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': '오대미 ㅋㅋ회사 일때문에 출장갓엉'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': '저녁에 친구랑 놀거야 ㅎㅎ'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': '헐'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': '행 볻 스~'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': '출장가셨다가아직도'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': '안오신거에뇨?'}
+{'utteranceID': 'U10', 'turnID': 'T6', 'participantID': 'P02', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': 'ㅋㅋㅋㅋㅋ아뉘아 어제와서'}
+{'utteranceID': 'U11', 'turnID': 'T7', 'participantID': 'P01', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': '오셨구나'}
+{'utteranceID': 'U12', 'turnID': 'T8', 'participantID': 'P02', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': '놀고 오늘 또 간거얌 ㅋㅋㅋ'}
+{'utteranceID': 'U13', 'turnID': 'T9', 'participantID': 'P01', 'date': '2018-04-07', 'time': '14:25:00', 'utterance': '또가신거구낰ㅋㅋㅋㅋㅋ'}
+데이트 안 하냐고 물었지만 출장 가서 친구랑 놀 거라고 이야기한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-10-24', 'time': '18:51:00', 'utterance': '#@이름# 갑자기 배가 너무아파서'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-10-24', 'time': '18:51:00', 'utterance': '못일어나겠다고'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-10-24', 'time': '18:51:00', 'utterance': '응급차타고 병원가고있음 ㅠㅠㅠ'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-10-24', 'time': '18:53:00', 'utterance': '헐?'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-10-24', 'time': '18:53:00', 'utterance': '맹장인가ㅠㅠㅠ'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-10-24', 'time': '19:36:00', 'utterance': '구니껭 ㅠㅠ'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-10-24', 'time': '19:36:00', 'utterance': '왜구러지?'}
+{'utteranceID': 'U8', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-10-24', 'time': '19:36:00', 'utterance': 'ct기다린대'}
+{'utteranceID': 'U9', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-10-24', 'time': '19:44:00', 'utterance': '엄마갔겠넹 ㅠ'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-10-24', 'time': '20:37:00', 'utterance': '아 엑스레이넹ㅋㅋ'}
+{'utteranceID': 'U11', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-10-24', 'time': '20:37:00', 'utterance': '괜찮나봐'}
+{'utteranceID': 'U12', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-10-24', 'time': '20:37:00', 'utterance': '왜구래찌'}
+{'utteranceID': 'U13', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-10-24', 'time': '21:35:00', 'utterance': '구러게 ㅇㅅㅇ'}
+{'utteranceID': 'U14', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-10-24', 'time': '21:35:00', 'utterance': '자주아프넹 ㅠㅠ'}
+갑자기 배가 너무 아파서 같이 응급차를 타고 병원에 가서 엑스레이를 찍는 것을 기다린다고 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-04-09', 'time': '19:51:00', 'utterance': '얘들아'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-04-09', 'time': '19:51:00', 'utterance': '삶이 윤택해지는 물건 추천해줘'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-04-09', 'time': '19:52:00', 'utterance': '질 좋은 파자마'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-09', 'time': '19:52:00', 'utterance': '오..'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-04-09', 'time': '19:52:00', 'utterance': '인공지능 스피커'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-04-09', 'time': '19:53:00', 'utterance': '지갑 속에 대량의 현금'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-04-09', 'time': '19:53:00', 'utterance': '아낰ㅋㅋㅋ'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P03', 'date': '2020-04-09', 'time': '19:53:00', 'utterance': '두툼하면 마음도 안정될듯'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P02', 'date': '2020-04-09', 'time': '19:53:00', 'utterance': '그니까ㅋㅋㅋ'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P02', 'date': '2020-04-09', 'time': '19:54:00', 'utterance': '바디필로우 폭신해'}
+{'utteranceID': 'U11', 'turnID': 'T8', 'participantID': 'P01', 'date': '2020-04-09', 'time': '19:54:00', 'utterance': '추천 더해봐 다사게ㅋㅋㅋㅋ'}
+{'utteranceID': 'U12', 'turnID': 'T9', 'participantID': 'P02', 'date': '2020-04-09', 'time': '19:59:00', 'utterance': '무선이어폰'}
+{'utteranceID': 'U13', 'turnID': 'T10', 'participantID': 'P04', 'date': '2020-04-09', 'time': '19:59:00', 'utterance': '자가용'}
+인공지능 스피커, 지갑 속에 대량의 현금, 바디 필로우, 무선이어폰, 자가용 등이 삶이 윤택해지는 물건이라고 이야기한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-30', 'time': '08:40:00', 'utterance': '먼사'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-30', 'time': '08:40:00', 'utterance': '그 누구야'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-03-30', 'time': '08:40:00', 'utterance': '먼가 비슥한디..'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-03-30', 'time': '08:40:00', 'utterance': '폴워커'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-03-30', 'time': '08:40:00', 'utterance': '그 바이올린 잘하는애'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-03-30', 'time': '08:40:00', 'utterance': '가숰'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-03-30', 'time': '08:41:00', 'utterance': '걔가 부른 거 들어썽'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-03-30', 'time': '08:41:00', 'utterance': '여기도 찰리푸스'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-03-30', 'time': '08:41:00', 'utterance': '나와'}
+바이올린 연주를 잘하는 가수가 부른 노래에 대해 이야기한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-06', 'time': '14:53:00', 'utterance': '웅..'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-06', 'time': '14:53:00', 'utterance': '신청받습니당'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-06', 'time': '14:53:00', 'utterance': '개인도'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-06', 'time': '14:53:00', 'utterance': '받아?'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-06', 'time': '14:53:00', 'utterance': '그럼 유료입니당'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-06', 'time': '14:53:00', 'utterance': '젠쟝'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-06', 'time': '14:53:00', 'utterance': '얼맙니꼬'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-06', 'time': '14:53:00', 'utterance': '사실 강사가 눈감으면 모르는데'}
+개인도 유료로 신청을 받는다는 이야기를 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-04-04', 'time': '14:59:00', 'utterance': '교보문고가서'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-04-04', 'time': '15:00:00', 'utterance': '책읽으시게욤?!'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-04-04', 'time': '15:00:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋ자기계발햐야제'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-04', 'time': '15:00:00', 'utterance': '미쳣더'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-04-04', 'time': '15:00:00', 'utterance': '화려한'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-04-04', 'time': '15:00:00', 'utterance': '솔로'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-04-04', 'time': '15:00:00', 'utterance': 'ㅋㅋㅋㅋ'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-04-04', 'time': '15:00:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-04-04', 'time': '15:00:00', 'utterance': '좋다 캬'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-04-04', 'time': '15:00:00', 'utterance': '뭔책살거얔ㅋㅌㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U11', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-04-04', 'time': '15:00:00', 'utterance': '자기계방서'}
+자기 계발서 책을 읽고 자기계발을 할 것이다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-11-25', 'time': '13:09:00', 'utterance': '점심에 술먹었어??'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-11-25', 'time': '13:09:00', 'utterance': '#@이름#과장님은 얼굴이 왜케 빨개..'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-11-25', 'time': '13:09:00', 'utterance': '백퍼 술드신거 같은데 ㅋㅋㅋ'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-11-25', 'time': '13:09:00', 'utterance': '차에서 자고온거 아냥???'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-11-25', 'time': '13:10:00', 'utterance': '술안먹었을텐데 오늘은..?'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-11-25', 'time': '14:13:00', 'utterance': '아 그랭 ㅋㅋ 얼굴이 엄청빨개서 놀랏네욤'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-11-25', 'time': '14:13:00', 'utterance': '하긴 마감때 술먹으면 미친거징..'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-11-25', 'time': '14:22:00', 'utterance': '그치 ㅋㅋㅋ 근데 #@이름#이랑 나갔으면 혹시몰라염'}
+{'utteranceID': 'U9', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-11-25', 'time': '14:22:00', 'utterance': '요즘 계속 기회 노리시던데.'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-11-25', 'time': '14:22:00', 'utterance': '회식하자고 엄청 하시자나 점심회식ㅋㅋㅋ'}
+점심시간에 과장님이 술을 드시고 오신 것 같다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-06', 'time': '17:54:00', 'utterance': '난 갠차는뎅'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-06', 'time': '17:54:00', 'utterance': '행군'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-06', 'time': '17:54:00', 'utterance': '할거같다 뭔가'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-06', 'time': '17:54:00', 'utterance': '약간'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-06', 'time': '17:54:00', 'utterance': '밀리터리같긴하넼'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-06', 'time': '17:56:00', 'utterance': '훔 일단'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-06', 'time': '17:56:00', 'utterance': '퇴근 준비를 해볼까나'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-06', 'time': '17:56:00', 'utterance': '><'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-06', 'time': '17:59:00', 'utterance': '웅'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-06', 'time': '17:59:00', 'utterance': '1분'}
+{'utteranceID': 'U11', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-06', 'time': '17:59:00', 'utterance': '남아따~'}
+행군과 퇴근에 대해 이야기한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-21', 'time': '10:36:00', 'utterance': '기여엌'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-21', 'time': '10:37:00', 'utterance': '땡땡이입구 또'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-05-21', 'time': '10:37:00', 'utterance': '왔다갔다 하겠디'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-21', 'time': '10:58:00', 'utterance': '차암내'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-21', 'time': '10:59:00', 'utterance': '근데'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-21', 'time': '10:59:00', 'utterance': '그래서'}
+{'utteranceID': 'U7', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-21', 'time': '10:59:00', 'utterance': '어뚜케하기로했오?'}
+{'utteranceID': 'U8', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-05-21', 'time': '10:59:00', 'utterance': '용산'}
+{'utteranceID': 'U9', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-21', 'time': '11:06:00', 'utterance': '모루겠더'}
+{'utteranceID': 'U10', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-21', 'time': '11:06:00', 'utterance': '진짜 인터넷으루 보니까'}
+{'utteranceID': 'U11', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-21', 'time': '11:06:00', 'utterance': '전세매물은 거의 없어서'}
+{'utteranceID': 'U12', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-05-21', 'time': '11:07:00', 'utterance': '정할려면 빨리 해야할 거 같긴한뎅'}
+{'utteranceID': 'U13', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-21', 'time': '11:07:00', 'utterance': '근데'}
+{'utteranceID': 'U14', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-21', 'time': '11:07:00', 'utterance': '거기 전세로 들어가면'}
+{'utteranceID': 'U15', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-05-21', 'time': '11:07:00', 'utterance': '청약시 어떤 혜택이 잇눈고야?'}
+{'utteranceID': 'U16', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-21', 'time': '11:08:00', 'utterance': '청약 1순위가'}
+{'utteranceID': 'U17', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-21', 'time': '11:08:00', 'utterance': '용산구 주민만 이야'}
+{'utteranceID': 'U18', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-21', 'time': '11:08:00', 'utterance': '신혼부부 다 상관없이'}
+{'utteranceID': 'U19', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-05-21', 'time': '11:08:00', 'utterance': '일단 용산구 주민이여야'}
+용산구에서 1순위로 청약하려면 용산구 주민이어야 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-31', 'time': '11:23:00', 'utterance': '오옹 씬나'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-03-31', 'time': '11:23:00', 'utterance': '텐션 업업'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-31', 'time': '11:24:00', 'utterance': '오늘'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-31', 'time': '11:24:00', 'utterance': '#@이름# 패션'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-03-31', 'time': '11:24:00', 'utterance': '누가 말 안해?'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-03-31', 'time': '11:24:00', 'utterance': '히힛'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-03-31', 'time': '11:24:00', 'utterance': '데이투 가냐구'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-03-31', 'time': '11:24:00', 'utterance': '누가'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-03-31', 'time': '11:24:00', 'utterance': '넘 다른 거 아니냐고'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-03-31', 'time': '11:24:00', 'utterance': '#@이름#황'}
+오늘 패션이 너무 달라 보여 데이트에 가냐고 물어본다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-04-12', 'time': '18:02:00', 'utterance': '언니결정해써여~??ㅋㅋ'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-04-12', 'time': '18:04:00', 'utterance': '이모부땜시 못갈듯'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-04-12', 'time': '18:04:00', 'utterance': '신경쓰임'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-04-12', 'time': '18:07:00', 'utterance': '넹 저먼저다녀올게용ㅋㅋㅋ'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-04-12', 'time': '18:07:00', 'utterance': '옹옹'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-04-12', 'time': '18:07:00', 'utterance': '조심히 다녀와'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-04-12', 'time': '18:07:00', 'utterance': '나도 가고싶어'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-04-12', 'time': '18:07:00', 'utterance': 'ㅜ ㅜ'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-04-12', 'time': '18:08:00', 'utterance': '제주도도 있으니 괜차나여!ㅋㅋ 우린7월에~~~'}
+{'utteranceID': 'U10', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-04-12', 'time': '18:33:00', 'utterance': '옹'}
+같이 가고 싶지만 이모부 때문에 갈 수가 없어서 7월에 함께 가기로 했다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-09-16', 'time': '22:58:00', 'utterance': '아 저 차 개먹고싶네'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-09-16', 'time': '22:58:00', 'utterance': '저 브랜드 밀크티도'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-09-16', 'time': '22:58:00', 'utterance': '맛잇자너'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-09-16', 'time': '22:58:00', 'utterance': 'ㅁㅈㅋㅋ밀크티존맛'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-09-16', 'time': '22:58:00', 'utterance': '비싸서 문제지'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-09-16', 'time': '22:58:00', 'utterance': '저기'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-09-16', 'time': '22:58:00', 'utterance': '티맛집이잖아'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-09-16', 'time': '22:58:00', 'utterance': '맛잇는 밀크티 먹고싶어'}
+맛있는 밀크티를 마시고 싶다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-05-10', 'time': '21:41:00', 'utterance': '오자마자 내방 냉장고청소했넹'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-05-10', 'time': '22:05:00', 'utterance': '왱'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-05-10', 'time': '22:06:00', 'utterance': '아줌마가 청소하다기'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-05-10', 'time': '22:06:00', 'utterance': '문을건드렸는지'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-05-10', 'time': '22:06:00', 'utterance': '안쪽에서 물흘러내려서'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-05-10', 'time': '22:06:00', 'utterance': '바닥에 물천지'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-05-10', 'time': '22:34:00', 'utterance': '헐 왜그랬대'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-05-10', 'time': '22:34:00', 'utterance': '짱나겠넹ㅋㅋㅋㅋ'}
+바닥이 물 천지라 오자마자 냉장고를 청소했다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:12:00', 'utterance': '나 폰이넘 크니까'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:12:00', 'utterance': '키보드가 넓어져서 살짝'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:12:00', 'utterance': '거리감이달라져서'}
+{'utteranceID': 'U4', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:12:00', 'utterance': '오타가자주남'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-08-24', 'time': '20:12:00', 'utterance': 'ㅋㅋㅋ악숙해지면'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-08-24', 'time': '20:12:00', 'utterance': '들날겨'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:12:00', 'utterance': '배열은 똑같은데 거리가 미묘하게달라서'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-08-24', 'time': '20:12:00', 'utterance': '나는 익숙해도 오타쟁이임'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:12:00', 'utterance': '그래서 한손모드 켜봤는데'}
+{'utteranceID': 'U10', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:12:00', 'utterance': '이게 좀 나은가'}
+{'utteranceID': 'U11', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:13:00', 'utterance': '근데 진짜 폰전체 크기는 그렇게 크~~게차이 안나는데'}
+{'utteranceID': 'U12', 'turnID': 'T6', 'participantID': 'P02', 'date': '2019-08-24', 'time': '20:13:00', 'utterance': '융'}
+{'utteranceID': 'U13', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:13:00', 'utterance': '막 화면이 가생이는 엣지되고'}
+{'utteranceID': 'U14', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:13:00', 'utterance': '홈버튼 이런거 없애고 뭐하고'}
+{'utteranceID': 'U15', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:13:00', 'utterance': '앞면이 전체가 다 화면이라'}
+{'utteranceID': 'U16', 'turnID': 'T7', 'participantID': 'P01', 'date': '2019-08-24', 'time': '20:13:00', 'utterance': '개커보임'}
+{'utteranceID': 'U17', 'turnID': 'T8', 'participantID': 'P02', 'date': '2019-08-24', 'time': '20:14:00', 'utterance': '마자마자'}
+핸드폰 앞면 전체가 화면이라 무척 커 보이는데 키보드가 넓어져 거리감이 달라지니 오타가 많이 난다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-07-23', 'time': '22:11:00', 'utterance': '#@이름#'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-07-23', 'time': '22:11:00', 'utterance': '혹시 주변에 독서실중에'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-07-23', 'time': '22:11:00', 'utterance': '너무어둡진 않은데 고정석이라 자리에 내 책 한가득 두고 쓸수있는데 알아 혹시?'}
+{'utteranceID': 'U4', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-07-23', 'time': '22:12:00', 'utterance': '각자 자리 지정되어있는 그런 독서실'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-07-23', 'time': '22:28:00', 'utterance': '음 개인석이면'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-07-23', 'time': '22:28:00', 'utterance': '한달에 24만원?쯤할걸?'}
+{'utteranceID': 'U7', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-07-23', 'time': '22:29:00', 'utterance': '나는 다니는 곳만 다녀서'}
+{'utteranceID': 'U8', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-07-23', 'time': '22:32:00', 'utterance': '헤엑'}
+{'utteranceID': 'U9', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-07-23', 'time': '22:32:00', 'utterance': '엄청비싸네'}
+{'utteranceID': 'U10', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-07-23', 'time': '22:32:00', 'utterance': 'ㅜㅜ'}
+{'utteranceID': 'U11', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-07-23', 'time': '22:32:00', 'utterance': '여긴12정도밖에안하는뎅'}
+{'utteranceID': 'U12', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-07-23', 'time': '22:33:00', 'utterance': '웅웅 카페석이면 복도에 서랍따로 있고 비지정석인데'}
+{'utteranceID': 'U13', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-07-23', 'time': '22:33:00', 'utterance': '그럼 18만원이야'}
+{'utteranceID': 'U14', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-07-23', 'time': '22:33:00', 'utterance': '내가 알기로는?!'}
+개인석을 사용할 수 있는 독서실을 추천해 달라고 하며 가격을 물어보고 있다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-04-17', 'time': '11:48:00', 'utterance': '아닝...'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-04-17', 'time': '11:48:00', 'utterance': '아직도 못먹었어'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-04-17', 'time': '11:48:00', 'utterance': '하..'}
+{'utteranceID': 'U4', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-04-17', 'time': '11:48:00', 'utterance': '배고팡..'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-04-17', 'time': '11:50:00', 'utterance': '홉'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-04-17', 'time': '11:50:00', 'utterance': '우리능 이제 먹디로오오오옹'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-17', 'time': '12:01:00', 'utterance': '난'}
+{'utteranceID': 'U8', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-17', 'time': '12:01:00', 'utterance': '이제..'}
+{'utteranceID': 'U9', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-17', 'time': '12:01:00', 'utterance': '배고파'}
+{'utteranceID': 'U10', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-17', 'time': '12:01:00', 'utterance': '죽것넹'}
+{'utteranceID': 'U11', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-04-17', 'time': '13:13:00', 'utterance': '머 머것덩'}
+{'utteranceID': 'U12', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-04-17', 'time': '13:13:00', 'utterance': '마니 먹었오오??'}
+{'utteranceID': 'U13', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-04-17', 'time': '13:13:00', 'utterance': '응'}
+{'utteranceID': 'U14', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-04-17', 'time': '13:13:00', 'utterance': '나'}
+{'utteranceID': 'U15', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-04-17', 'time': '13:13:00', 'utterance': '김치찌개랑'}
+{'utteranceID': 'U16', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-04-17', 'time': '13:14:00', 'utterance': '김치묵은지찜'}
+{'utteranceID': 'U17', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-04-17', 'time': '13:14:00', 'utterance': '흡입햇고왔어'}
+밥을 먹었는지 물어보고 김치찌개와 묵은지찜을 먹었다고 이야기한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2015-07-23', 'time': '12:03:00', 'utterance': '난복숭아사달랄거야'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2015-07-23', 'time': '12:03:00', 'utterance': '복숭아가너무먹고싶어'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2015-07-23', 'time': '12:03:00', 'utterance': 'ㅋㅋㅋ 난수박'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2015-07-23', 'time': '12:03:00', 'utterance': '워터멜롱'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2015-07-23', 'time': '12:03:00', 'utterance': 'ㅋㅋㅋㅋㅋㄱ복숭아가얼마나먹고싶으면'}
+{'utteranceID': 'U6', 'turnID': 'T4', 'participantID': 'P02', 'date': '2015-07-23', 'time': '12:04:00', 'utterance': '사먹엉ㅋㅇ'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2015-07-23', 'time': '12:04:00', 'utterance': '입에서복숭아맛이나'}
+{'utteranceID': 'U8', 'turnID': 'T6', 'participantID': 'P02', 'date': '2015-07-23', 'time': '12:04:00', 'utterance': '마음이아프다'}
+{'utteranceID': 'U9', 'turnID': 'T7', 'participantID': 'P01', 'date': '2015-07-23', 'time': '12:04:00', 'utterance': 'ㅋㅋㅋㄱㅋㅋㅋㅋ'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P01', 'date': '2015-07-23', 'time': '12:04:00', 'utterance': '마음아파'}
+복숭아를 먹고 싶어 한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2016-08-18', 'time': '12:16:00', 'utterance': '밥은언제먹어~~?'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2016-08-18', 'time': '12:17:00', 'utterance': '이제먹으려구~~'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2016-08-18', 'time': '12:29:00', 'utterance': '머먹을꺼야~~'}
+{'utteranceID': 'U4', 'turnID': 'T4', 'participantID': 'P02', 'date': '2016-08-18', 'time': '12:40:00', 'utterance': '도시락시켜먹었엉~~'}
+{'utteranceID': 'U5', 'turnID': 'T5', 'participantID': 'P01', 'date': '2016-08-18', 'time': '12:53:00', 'utterance': '도시락자주시켜먹네~~'}
+{'utteranceID': 'U6', 'turnID': 'T6', 'participantID': 'P02', 'date': '2016-08-18', 'time': '12:54:00', 'utterance': '건강해지는맛이지ㅎㅎ'}
+{'utteranceID': 'U7', 'turnID': 'T6', 'participantID': 'P02', 'date': '2016-08-18', 'time': '12:54:00', 'utterance': '본도시락은인스턴트느낌도별루없어서좋아ㅎㅎ'}
+{'utteranceID': 'U8', 'turnID': 'T7', 'participantID': 'P01', 'date': '2016-08-18', 'time': '13:29:00', 'utterance': 'ㅋㅋㅋ밥이라서맘에드는군~~♡♡♡'}
+{'utteranceID': 'U9', 'turnID': 'T8', 'participantID': 'P02', 'date': '2016-08-18', 'time': '13:38:00', 'utterance': '웅ㅎㅎ건강한맛~~'}
+본 도시락이 건강한 맛이라는 이야기를 하고 있다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2018-04-02', 'time': '10:38:00', 'utterance': '저염색하구있어눀ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2018-04-02', 'time': '10:38:00', 'utterance': '룰뤀ㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2018-04-02', 'time': '10:38:00', 'utterance': '쌤은 찜질하러 가세용?'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-04-02', 'time': '11:52:00', 'utterance': 'ㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-04-02', 'time': '11:52:00', 'utterance': '이따 저녁에 찜질가야쥥'}
+{'utteranceID': 'U6', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-04-02', 'time': '11:52:00', 'utterance': '아 나도나도 얌색하구싶엉 ㅜㅠㅠ'}
+{'utteranceID': 'U7', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-04-02', 'time': '11:52:00', 'utterance': '하필 오늘 미용실문닫아서...'}
+{'utteranceID': 'U8', 'turnID': 'T3', 'participantID': 'P01', 'date': '2018-04-02', 'time': '11:52:00', 'utterance': '앜ㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U9', 'turnID': 'T4', 'participantID': 'P02', 'date': '2018-04-02', 'time': '11:52:00', 'utterance': '염색하러갈때 머리감고갔어?'}
+{'utteranceID': 'U10', 'turnID': 'T4', 'participantID': 'P02', 'date': '2018-04-02', 'time': '11:52:00', 'utterance': 'ㅋㅋㅋㅋ'}
+{'utteranceID': 'U11', 'turnID': 'T5', 'participantID': 'P01', 'date': '2018-04-02', 'time': '11:52:00', 'utterance': '아눀ㅋㅋㅋㅋㅋ'}
+염색하고 있다고 하니 선생님도 염색하고 싶다고 이야기한다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2018-07-27', 'time': '00:17:00', 'utterance': '돈을 지금 모아야 하는 게 맞고'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2018-07-27', 'time': '00:17:00', 'utterance': '쓸데 없는 지출 안 생기게'}
+{'utteranceID': 'U3', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-07-27', 'time': '00:17:00', 'utterance': 'ㅇㅇㅇ 지금은 있고 너 졸업하면 바로 나와'}
+{'utteranceID': 'U4', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-07-27', 'time': '00:18:00', 'utterance': '휴학 1년동안'}
+{'utteranceID': 'U5', 'turnID': 'T2', 'participantID': 'P02', 'date': '2018-07-27', 'time': '00:18:00', 'utterance': '돈 모아'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2018-07-27', 'time': '00:18:00', 'utterance': '소름'}
+{'utteranceID': 'U7', 'turnID': 'T3', 'participantID': 'P01', 'date': '2018-07-27', 'time': '00:18:00', 'utterance': '7월 금방 간다'}
+{'utteranceID': 'U8', 'turnID': 'T4', 'participantID': 'P02', 'date': '2018-07-27', 'time': '00:18:00', 'utterance': '와'}
+{'utteranceID': 'U9', 'turnID': 'T5', 'participantID': 'P01', 'date': '2018-07-27', 'time': '00:18:00', 'utterance': '이렇게 일년 금방 가고'}
+{'utteranceID': 'U10', 'turnID': 'T6', 'participantID': 'P02', 'date': '2018-07-27', 'time': '00:18:00', 'utterance': '와 진짜'}
+{'utteranceID': 'U11', 'turnID': 'T6', 'participantID': 'P02', 'date': '2018-07-27', 'time': '00:18:00', 'utterance': '이제 곧 8월이니까....'}
+{'utteranceID': 'U12', 'turnID': 'T7', 'participantID': 'P01', 'date': '2018-07-27', 'time': '00:18:00', 'utterance': '그리고 중국 감'}
+휴학하는 1년 동안 일을 해서 돈을 벌도록 권유했다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-04-08', 'time': '15:20:00', 'utterance': '#@시스템#동영상#'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2020-04-08', 'time': '15:52:00', 'utterance': '싸우는거아니징..??걍둘이노는거지??'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-08', 'time': '15:53:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-08', 'time': '15:54:00', 'utterance': '웅'}
+{'utteranceID': 'U5', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-08', 'time': '15:54:00', 'utterance': '좀더 카메라가 밑에잇엇어야햇어ㅠ'}
+{'utteranceID': 'U6', 'turnID': 'T3', 'participantID': 'P01', 'date': '2020-04-08', 'time': '15:54:00', 'utterance': '#@이름#이가 #@이름#떄리는 손만보여ㅠ'}
+{'utteranceID': 'U7', 'turnID': 'T4', 'participantID': 'P02', 'date': '2020-04-08', 'time': '16:00:00', 'utterance': '분명히누워서휙휙햇닼ㅋㅋㅋ'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2020-04-08', 'time': '16:04:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ기여어ㅠ'}
+{'utteranceID': 'U9', 'turnID': 'T6', 'participantID': 'P02', 'date': '2020-04-08', 'time': '16:08:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋ싸우는지알고놀랫넹'}
+{'utteranceID': 'U10', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-04-08', 'time': '16:26:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ'}
+{'utteranceID': 'U11', 'turnID': 'T7', 'participantID': 'P01', 'date': '2020-04-08', 'time': '16:26:00', 'utterance': '저러다 싸움이되지머,,'}
+{'utteranceID': 'U12', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-04-08', 'time': '16:53:00', 'utterance': 'ㅋㅋㅋㅋㅋㅋㅋ그러케보면#@이름#가참착하다'}
+{'utteranceID': 'U13', 'turnID': 'T8', 'participantID': 'P02', 'date': '2020-04-08', 'time': '16:53:00', 'utterance': '저렇게건드는뎈ㅋㅋ'}
+{'utteranceID': 'U14', 'turnID': 'T9', 'participantID': 'P01', 'date': '2020-04-08', 'time': '16:56:00', 'utterance': '#@이름#이가 놀리는거같지'}
+{'utteranceID': 'U15', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-04-08', 'time': '16:56:00', 'utterance': '웅놀리고도망가다가'}
+{'utteranceID': 'U16', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-04-08', 'time': '16:56:00', 'utterance': '#@이름#가팰라니까누워가지고'}
+{'utteranceID': 'U17', 'turnID': 'T10', 'participantID': 'P02', 'date': '2020-04-08', 'time': '16:57:00', 'utterance': '발로막치고'}
+동영상을 보고 노는 건지 싸우는 건지에 대해 이야기하고 있다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2019-05-21', 'time': '16:39:00', 'utterance': '어쩐지'}
+{'utteranceID': 'U2', 'turnID': 'T2', 'participantID': 'P02', 'date': '2019-05-21', 'time': '16:40:00', 'utterance': '뺏어가네'}
+{'utteranceID': 'U3', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-05-21', 'time': '16:40:00', 'utterance': '맨날 한가득 다먹는다했어'}
+{'utteranceID': 'U4', 'turnID': 'T3', 'participantID': 'P01', 'date': '2019-05-21', 'time': '16:40:00', 'utterance': '근데 얘들둘이'}
+{'utteranceID': 'U5', 'turnID': 'T4', 'participantID': 'P02', 'date': '2019-05-21', 'time': '16:40:00', 'utterance': '사료아직많아?'}
+{'utteranceID': 'U6', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-05-21', 'time': '16:40:00', 'utterance': '카마니있는거보면'}
+{'utteranceID': 'U7', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-05-21', 'time': '16:40:00', 'utterance': '친한애들인가봐'}
+{'utteranceID': 'U8', 'turnID': 'T5', 'participantID': 'P01', 'date': '2019-05-21', 'time': '16:40:00', 'utterance': '웅 사료많아~'}
+다른 고양이들이 사료를 뺏어 먹는데 가만히 있는 걸 보면 친한 것 같다.
+-----------------------------------------------------------------------------
+{'utteranceID': 'U1', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-02-11', 'time': '02:45:00', 'utterance': '저도 오빠한테 배우는더 진짜 많아요'}
+{'utteranceID': 'U2', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-02-11', 'time': '02:45:00', 'utterance': '가끔 대화하다 많이 놀래요'}
+{'utteranceID': 'U3', 'turnID': 'T1', 'participantID': 'P01', 'date': '2020-02-11', 'time': '02:45:00', 'utterance': '와 이렇게 생각할수도 있구나 이러면서'}
