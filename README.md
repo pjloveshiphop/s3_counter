@@ -9,7 +9,7 @@ Prgoram will drop the output as csv file in a desktop.
 None
 
 ## How to run
-counter.py
+python3 counter.py
 
 ## License
 MIT
